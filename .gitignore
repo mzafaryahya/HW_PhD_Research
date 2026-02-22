@@ -1,0 +1,9 @@
+# Large data files – do not commit to git
+*.csv
+*.zip
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
